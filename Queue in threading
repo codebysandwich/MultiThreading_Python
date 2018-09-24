@@ -38,4 +38,3 @@ def multithreading(data):
 if __name__ == '__main__':
 	data = [[1,2,4], [2,6,7, 1, 2, 3, 2, 2, 4, 34,45,56,34,345,3545,34,23,23,12,1212,1222,111], [2,5,3]]
 	multithreading(data)
-	
